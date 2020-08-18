@@ -8,6 +8,7 @@
                 
 ----
 <H3> General </H3>
+    
     git clone https://github.com/julianramirezch/script-configuration.git
     <br>
     cd script-configuration
