@@ -8,9 +8,11 @@
                 
 ----
 <H3> General </H3>
-   git clone https://github.com/julianramirezch/script-configuration.git
-   cd script-configuration
-   ./configuration.sh github_user github_email github_repository
+    git clone https://github.com/julianramirezch/script-configuration.git
+    <br>
+    cd script-configuration
+    <br>
+    ./configuration.sh github_user github_email github_repository
 
 ### Tasks:
 
