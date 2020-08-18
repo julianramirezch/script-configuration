@@ -8,11 +8,18 @@
                 
 ----
 <H3> General </H3>
-    
+    Configuration:
+    <br>
+    ZSH
+    <br>
+    Github user
+    <br>
+    Github email
+    <br>
+    Clone Repository
+
     git clone https://github.com/julianramirezch/script-configuration.git
-    <br>
     cd script-configuration
-    <br>
     ./configuration.sh github_user github_email github_repository
 
 ### Tasks:
