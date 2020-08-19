@@ -17,6 +17,10 @@
     Github email
     <br>
     Clone Repository
+    <br>
+    Shellecheck
+    <br>
+    Nginx
 
     git clone https://github.com/julianramirezch/script-configuration.git
     cd script-configuration
